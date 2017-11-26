@@ -33,7 +33,7 @@ the portfolio you made last week with a mobile-responsive layout.
    * Responsive images
 
    **BONUS**
-   Using Bootstrap, make a sticky footer and use sub-rows and sub-solumns on your portfolio site _(Hint: Check out the Bootstrap documentation)_
+   Using Bootstrap, make a sticky footer and use sub-rows and sub-columns on your portfolio site _(Hint: Check out the Bootstrap documentation)_
 
 3. Your Bootstrap solution should minimize use of media queries.
 
