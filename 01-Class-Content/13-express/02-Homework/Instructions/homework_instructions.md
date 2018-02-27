@@ -13,6 +13,7 @@ You will use Express to handle routing. Make sure you deploy your app to Heroku 
 
 * Create a folder called `FriendFinder`. Inside the folder, organize your directories so it matches the following:
 
+<<<<<<< HEAD
 ```
 ├── app
 |  ├── data
@@ -26,6 +27,23 @@ You will use Express to handle routing. Make sure you deploy your app to Heroku 
 ├── package.json
 └── server.js
 ```
+=======
+  ```
+  FriendFinder
+    - app
+      - data
+        - friends.js
+      - public
+        - home.html
+        - survey.html
+      - routing
+        - apiRoutes.js
+        - htmlRoutes.js
+    - node_modules
+    - package.json
+    - server.js
+  ```
+>>>>>>> 005f0bdc75ab880c294e8c3ad8cb7ea9e15b77b6
 
 ### Instructions
 
